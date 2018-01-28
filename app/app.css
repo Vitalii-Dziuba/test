@@ -1,0 +1,10 @@
+
+.table {
+    border: 1px solid #ddd;
+    margin: 2%;
+    width: 96%;
+}
+
+.selected {
+    max-width: 100%
+}
