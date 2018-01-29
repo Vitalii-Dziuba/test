@@ -3,7 +3,7 @@
 
     angular.module('app.customers')
         .component('parentCustomersList', {
-            templateUrl: '/app/modules/customers/parent/parent.html',
+            templateUrl: '/modules/customers/parent/parent.html',
             controller: parentCtrl
         });
 
